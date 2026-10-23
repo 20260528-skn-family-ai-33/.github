@@ -2,7 +2,14 @@
 
 수업 자료와 실습 코드, 팀 프로젝트를 모아두는 공간입니다.
 
-[수업 자료](#수업-자료) · [팀 프로젝트](#팀-프로젝트) · [추가 실습](#추가-실습) · [전체 저장소](https://github.com/20260528-skn-family-ai-33/repositories)
+[![Git 수업 자료](https://img.shields.io/badge/Git-30363D?style=flat&logo=git&logoColor=F0883E)](https://github.com/20260528-skn-family-ai-33/01_git)
+[![Python 수업 자료](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=79C0FF)](https://github.com/20260528-skn-family-ai-33/02_python)
+[![Jupyter 수업 자료](https://img.shields.io/badge/Jupyter-30363D?style=flat&logo=jupyter&logoColor=F2A65A)](https://github.com/20260528-skn-family-ai-33/05_data_analysis)
+[![HTML5 수업 자료](https://img.shields.io/badge/HTML5-30363D?style=flat&logo=html5&logoColor=F2A65A)](https://github.com/20260528-skn-family-ai-33/11_frontend)
+[![JavaScript 수업 자료](https://img.shields.io/badge/JavaScript-30363D?style=flat&logo=javascript&logoColor=F7DF1E)](https://github.com/20260528-skn-family-ai-33/11_frontend)
+[![Docker 수업 자료](https://img.shields.io/badge/Docker-30363D?style=flat&logo=docker&logoColor=79C0FF)](https://github.com/20260528-skn-family-ai-33/13_docker)
+
+[수업 자료](#수업-자료) · [팀 프로젝트](#팀-프로젝트) · [전체 저장소](https://github.com/20260528-skn-family-ai-33/repositories)
 
 ## 수업 자료
 
@@ -28,10 +35,7 @@
 - [4팀 · 머니쿠션](https://github.com/20260528-skn-family-ai-33/SKN33-Final-4Team) · 사회초년생을 위한 예산·소비 관리 서비스
 - [5팀 · A4B](https://github.com/20260528-skn-family-ai-33/SKN33-Final-5Team) · 대화로 업무 절차를 설계하고 실행하는 워크플로우 플랫폼
 
-## 추가 실습
-
-[chatbot-aws](https://github.com/20260528-skn-family-ai-33/chatbot-aws) · [stack99](https://github.com/20260528-skn-family-ai-33/stack99)
-
 ---
 
 자세한 내용과 실행 방법은 각 저장소의 안내를 확인해 주세요.
+
