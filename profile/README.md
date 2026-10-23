@@ -6,6 +6,8 @@
 
 ## 수업 자료
 
+비공개 자료는 접근 권한이 있는 GitHub 계정으로 로그인한 뒤 이용할 수 있습니다.
+
 ### 기초
 [01 · Git](https://github.com/20260528-skn-family-ai-33/01_git) · [02 · Python](https://github.com/20260528-skn-family-ai-33/02_python) · [03 · 데이터베이스](https://github.com/20260528-skn-family-ai-33/03_db)
 
