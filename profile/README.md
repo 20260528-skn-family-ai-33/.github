@@ -31,11 +31,9 @@
 
 - [1팀 · 크리에이티브체커](https://github.com/20260528-skn-family-ai-33/SKN33-Final-1Team) · 요구사항과 광고 납품물을 대조하는 검수 업무 자동화
 - [2팀 · GrowPath](https://github.com/20260528-skn-family-ai-33/SKN33-Final-2Team) · 목표와 학습 조건에 맞춘 AI 역량 성장 로드맵
-- [3팀 · 프로젝트 저장소](https://github.com/20260528-skn-family-ai-33/SKN33-Final-3Team)
-- [4팀 · 머니쿠션](https://github.com/20260528-skn-family-ai-33/SKN33-Final-4Team) · 사회초년생을 위한 예산·소비 관리 서비스
+- [3팀 · Borderless Sellers](https://github.com/20260528-skn-family-ai-33/SKN33-Final-3Team) · 무역 통계·해외시장 분석 서비스
+- [4팀 · Cushion-ing](https://github.com/20260528-skn-family-ai-33/SKN33-Final-4Team) · 사회초년생을 위한 예산·소비 관리 서비스
 - [5팀 · A4B](https://github.com/20260528-skn-family-ai-33/SKN33-Final-5Team) · 대화로 업무 절차를 설계하고 실행하는 워크플로우 플랫폼
 
 ---
-
-자세한 내용과 실행 방법은 각 저장소의 안내를 확인해 주세요.
 
